@@ -1,0 +1,57 @@
+.qwe{
+	width: 100px;
+	height: 100px;
+	background: red;
+	position: fixed;
+	z-index: 1;
+}
+.qwe1{
+	width: 100px;
+	height: 100px;
+	background: green;
+	position: fixed;
+	z-index: 2;
+	left: 80px;
+	top: 80px;
+	
+
+}
+.qwe2{
+	width: 100px;
+	height: 100px;
+	background: blue;
+	position: fixed;
+	z-index: 3;
+	left: 150px;
+	top:150px ;
+}
+.tret{
+	width: 300px;
+	height: 100px;
+
+
+}
+.oner{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background: red;
+
+
+}
+.two{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background: green;
+
+
+}
+.three{
+	display: inline-block;
+    width: 100px;
+	height: 100px;
+	background: blue;	
+
+	
+}
